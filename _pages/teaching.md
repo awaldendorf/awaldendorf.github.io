@@ -11,6 +11,6 @@ nav_order: 6
 Block seminar at Heinrich-Heine University, Düsseldorf (Germany). November 2023.  
 
 **Quantitative Methods Workshop**
-School of Transnational Governance, EUI (Italy)
+School of Transnational Governance, EUI (Italy).
 February 2023
 
