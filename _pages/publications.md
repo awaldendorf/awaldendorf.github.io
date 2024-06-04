@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Publications/
-title: Publications
+permalink: /publications/
+title: publications
 description: Here is a list of my publications.
 nav: true
 nav_order: 2
