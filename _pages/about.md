@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: <strong>Anica Waldendorf</strong>
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>European University Institute</strong> </p>
+    <p>Via dei Roccettini 9 </p>
+    <p>50014 San Domenico di Fiesole, Italy </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a PhD Researcher at the <a href="https://www.eui.eu/en/academic-units/political-and-social-sciences">Department of Social and Political Sciences</a>, at the European University Institute in Florence, Italy.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My dissertation is titled "The power of language" and supervised by <a href="https://www.eui.eu/people?id=arnout-van-de-rijt">Arnout van de Rijt</a> and <a href="https://research.vu.nl/en/persons/klarita-gërxhani">Klarita Gërxhani</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
