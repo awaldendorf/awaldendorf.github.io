@@ -18,10 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 ---
-I am a PhD Researcher at the <a href="https://www.eui.eu/en/academic-units/political-and-social-sciences">Department of Social and Political Sciences</a>, at the European University Institute in Florence, Italy.
+I am a PhD Researcher at the <a href="https://www.eui.eu/en/academic-units/political-and-social-sciences">Department of Social and Political Sciences</a>, at the European University Institute in Florence (Italy).
 
-My dissertation is titled "The power of language" and supervised by <a href="https://www.eui.eu/people?id=arnout-van-de-rijt">Arnout van de Rijt</a> and <a href="https://research.vu.nl/en/persons/klarita-gërxhani">Klarita Gërxhani</a>.
+In my my dissertation "The power of language. The use, effect, and spread of gender-inclusive language." (supervised by <a href="https://www.eui.eu/people?id=arnout-van-de-rijt">Arnout van de Rijt</a> and <a href="https://research.vu.nl/en/persons/klarita-gërxhani">Klarita Gërxhani</a>) I combine several empirical methods to explore the phenomenon of gender-inclusive language from a sociological perspective.
 
- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From September 2024 I will be a Postdoctoral Prize Research Fellow at <a href="https://www.nuffield.ox.ac.uk/people/academics/?academicGroup=10684&subCategory=">Nuffield College</a>, University of Oxford.  
