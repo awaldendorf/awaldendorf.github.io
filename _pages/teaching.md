@@ -7,10 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-**Gender, Politics and Language**
-Block seminar at Heinrich-Heine University, Düsseldorf (Germany). November 2023.  
+<strong>Gender, Politics and Language</strong><br>
+Block seminar at Heinrich-Heine University, Düsseldorf (Germany)<br>
+November 2023<br>
 
-**Quantitative Methods Workshop**
-School of Transnational Governance, EUI (Italy).
-February 2023
+<strong>Quantitative Methods Workshop</strong><br>
+School of Transnational Governance, EUI (Italy)<br>
+February 2023<br>
 
