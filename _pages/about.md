@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><strong>European University Institute</strong> </p>
-    <p>Via dei Roccettini 9 </p>
-    <p>50014 San Domenico di Fiesole, Italy </p>
+    <p><strong>Nuffield College</strong></p>
+    <p>New Road, Oxford</p>
+    <p>OX1 1NF</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
