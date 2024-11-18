@@ -8,6 +8,13 @@
     - name: Languages
       value: German (native), English (native)
 
+- title: Current position
+  type: time_table
+  contents:
+    - title: Postdoctoral Prize Research  Fellow
+   institution: Nuffield College, University of Oxford
+   year: 2024-2027
+  
 - title: Education
   type: time_table
   contents:
