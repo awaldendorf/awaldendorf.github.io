@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>Nuffield College</strong></p>
-    <p>New Road, Oxford</p>
+    <p>New Road, Oxford, </p>
     <p>OX1 1NF</p>
 
 news: false  # includes a list of news items
